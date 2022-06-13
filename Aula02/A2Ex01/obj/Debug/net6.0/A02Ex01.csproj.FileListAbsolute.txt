@@ -1,0 +1,45 @@
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\bin\Debug\net6.0\A02Ex01.exe
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\bin\Debug\net6.0\A02Ex01.deps.json
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\bin\Debug\net6.0\A02Ex01.runtimeconfig.json
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\bin\Debug\net6.0\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\bin\Debug\net6.0\A02Ex01.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.csproj.AssemblyReference.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.AssemblyInfoInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.AssemblyInfo.cs
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\refint\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\A02Ex01.genruntimeconfig.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A2Ex01\obj\Debug\net6.0\ref\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\bin\Debug\net6.0\A02Ex01.exe
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\bin\Debug\net6.0\A02Ex01.deps.json
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\bin\Debug\net6.0\A02Ex01.runtimeconfig.json
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\bin\Debug\net6.0\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\bin\Debug\net6.0\A02Ex01.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.csproj.AssemblyReference.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.AssemblyInfoInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.AssemblyInfo.cs
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\refint\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\A02Ex01.genruntimeconfig.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01 - Copia (2)\A2Ex01\obj\Debug\net6.0\ref\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\bin\Debug\net6.0\A02Ex01.exe
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\bin\Debug\net6.0\A02Ex01.deps.json
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\bin\Debug\net6.0\A02Ex01.runtimeconfig.json
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\bin\Debug\net6.0\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\bin\Debug\net6.0\A02Ex01.pdb
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.csproj.AssemblyReference.cache
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.AssemblyInfoInputs.cache
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.AssemblyInfo.cs
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\refint\A02Ex01.dll
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.pdb
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\A02Ex01.genruntimeconfig.cache
+C:\Users\Solange Grimaldi\Desktop\codingGirlss\Aula02\A2Ex01\obj\Debug\net6.0\ref\A02Ex01.dll

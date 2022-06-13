@@ -1,0 +1,15 @@
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\bin\Debug\net6.0\A02Ex04.exe
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\bin\Debug\net6.0\A02Ex04.deps.json
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\bin\Debug\net6.0\A02Ex04.runtimeconfig.json
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\bin\Debug\net6.0\A02Ex04.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\bin\Debug\net6.0\A02Ex04.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.csproj.AssemblyReference.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.AssemblyInfoInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.AssemblyInfo.cs
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.csproj.CoreCompileInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\refint\A02Ex04.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\A02Ex04.genruntimeconfig.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex04\obj\Debug\net6.0\ref\A02Ex04.dll

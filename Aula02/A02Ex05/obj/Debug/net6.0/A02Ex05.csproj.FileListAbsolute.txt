@@ -1,0 +1,15 @@
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\bin\Debug\net6.0\A02Ex05.exe
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\bin\Debug\net6.0\A02Ex05.deps.json
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\bin\Debug\net6.0\A02Ex05.runtimeconfig.json
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\bin\Debug\net6.0\A02Ex05.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\bin\Debug\net6.0\A02Ex05.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.csproj.AssemblyReference.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.AssemblyInfoInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.AssemblyInfo.cs
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\refint\A02Ex05.dll
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.pdb
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\A02Ex05.genruntimeconfig.cache
+C:\Users\Solange Grimaldi\Desktop\Semana01\A02Ex05\obj\Debug\net6.0\ref\A02Ex05.dll
