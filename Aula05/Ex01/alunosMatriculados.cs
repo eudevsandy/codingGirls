@@ -10,7 +10,8 @@ namespace Ex01
     {
         public int matricula;
         public string nome;
-        public double provas[];
+        public double prova1;
+        public double prova2;
         public double trabalho;
 
         public double calcularMedia(double prova1, double prova2, double trabalho)

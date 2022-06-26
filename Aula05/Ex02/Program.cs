@@ -17,11 +17,3 @@ caso esteja vazia, reserva e exibe uma mensagem de confirmação;
 -Ver horário: Imprime a data e o horário do vôo.
  */
 
-Cadeira Livre: Retorna o número da próxima cadeira livre;
-Ocupa: ocupa determinada cadeira do vôo, cujo número é recebido como parâmetro. 
-    Caso a cadeira esteja ocupada exibe uma mensagem, 
-    caso esteja vazia, reserva e exibe uma mensagem de confirmação.
-    Ver horário: Imprime a data e o horário do vôo.
-
-
-Console.WriteLine("Hello, World!");
